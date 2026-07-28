@@ -15,3 +15,8 @@ A ideia é simples: a câmera lê o movimento das suas mãos, você faz um "L" c
 Você vai precisar do Python (testado e rodando liso no 3.12). Abre o terminal e manda:
 ```bash
 pip install opencv-python mediapipe==0.9.0.1 numpy
+
+**2. Só rodar**
+No terminal ainda:
+```bash
+python Portal.py
